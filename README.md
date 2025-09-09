@@ -1,1 +1,1 @@
-“Live demo available at https://rakusivir.github.io/Calulator/”
+“Live demo available at https://rakusirvi.github.io/Calulator/"
